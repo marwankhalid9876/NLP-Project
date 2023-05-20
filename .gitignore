@@ -1,0 +1,5 @@
+AraBART/
+.ipynb_checkpoints
+.DS_Store
+*model.joblib
+*tokenized.joblib
